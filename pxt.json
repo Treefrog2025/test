@@ -1,5 +1,6 @@
 {
     "name": "拡張ブロックBH1745NUC",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
